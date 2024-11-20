@@ -1,5 +1,5 @@
 
-# 💻 Sreekar Jenepalli's GitHub Portfolio
+# 💻 Sreekar Jenepalli
 
 Welcome to my GitHub! I'm **Sreekar Jenepalli**, a passionate **Data Engineer** and a graduate student at **University of Missouri-Kansas City (UMKC)** pursuing a **Master of Science in Computer Science**. This repository serves as a showcase of my skills, projects, and professional journey.
 
