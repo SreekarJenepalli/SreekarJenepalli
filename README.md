@@ -83,15 +83,38 @@ With **1 year of experience** as a **Data Engineer at Winwire Technologies**, I 
 - 🔐 Automated incident response with AI-driven playbooks.  
 - ⚡ Built real-time APIs for threat detection and recovery.  
 
+### 9. 🏥 Platform Modernization – Adventist Health
+- 🧱 Built a secure medallion architecture across raw, curated, and trusted zones in Snowflake and S3 to support HIPAA-compliant analytics for 10+ clinical and operational teams.
+- 🔄 Integrated MySQL-based systems and event streams via AWS Glue, Lambda, and Step Functions, enabling automated ingestion from 30+ data sources.
+- 🔐 Implemented S3 object lock, IAM policies, and schema versioning to ensure 100% audit readiness and long-term data retention compliance.
+
+### 10. 📦 DPass Migration – Adobe
+- 🚛 Migrated 25+ TB of campaign and user data from SQL Server and Hadoop into a centralized S3 data lake using fault-tolerant ETL pipelines built in AWS Glue and EMR.
+- 📊 Designed Redshift reporting layers and QuickSight dashboards with row-level security, serving 12+ internal business teams across marketing and finance.
+- 📉 Reduced SLA violations by 45% through automated monitoring, CloudWatch alerts, and lineage metadata tracking across 60+ data workflows.
+
+### 11. 🏅 Olympic Data Analytics
+- 📊 Delivered self-service dashboards in Power BI and QuickSight backed by Redshift and S3 datasets.
+- 📌 Modeled 100+ KPIs using curated SQL views and advanced DAX measures for dynamic, role-based insights.
+- ⚡ Improved report refresh speed by 35% through optimized Athena query tuning and partitioning strategies.
+
 ---
 
 ## **💼 Work Experience**  
 
-### **Associate Software Engineer at Winwire Technologies** *(Aug 2022 - Aug 2023)*  
+### **Data Engineer in Adventist Health** *(Aug 2022 - Aug 2023)*  
 - 💾 **Data Ingestion:** Designed pipelines to streamline data from multiple sources.  
 - 🌐 **Data Migration:** Migrated legacy systems to cloud platforms like Azure.  
 - 📊 **Data Visualization:** Created Power BI dashboards for insightful analytics.  
-- 🗃️ **SQL Development:** Designed optimized queries for large-scale databases.  
+- 🗃️ **SQL Development:** Designed optimized queries for large-scale databases.
+
+### Data Engineer at Adobe *(Feb 2018 – Jul 2022)*
+- 🔄 **ETL Pipelines:** Built 120+ scalable ETL workflows using AWS Glue and Lambda to ingest 25+ TB of data.
+- 📈 **Real-Time Streaming:** Streamed 1.5M+ daily ad events using Kafka and Kinesis for audience segmentation.
+- 🛠️ **Data Transformation:** Authored 60+ reusable PySpark and dbt modules in EMR, reducing batch latency by 40%.
+- 🗃️ **Data Modeling:** Designed star and snowflake schemas in Redshift and Snowflake across 200+ reporting tables.
+- 🔐 **Data Governance:** Enforced row-level security and audit trails using Lake Formation and Glue Data Catalog.
+- 🚀 **CI/CD Automation:** Automated deployments across 5 environments using Jenkins and GitLab, cutting errors by 70%.
 
 ---
 
