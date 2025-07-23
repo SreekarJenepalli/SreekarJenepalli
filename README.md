@@ -1,21 +1,26 @@
 
 # **Sreekar Jenepalli**  
 
-🎯 *Aspiring Data Engineer | Passionate Data Scientist | Cloud Enthusiast*  
+🎯 *Aspiring Data Engineer | Cloud Enthusiast*  
 
 ---
 
-## **👋 About Me**  
+## 👋 About Me
 
-Hi there! I am **Sreekar Jenepalli**, currently working on a **Medical Chatbot** project using **Machine Learning**. My passion lies in:  
-- 🌐 **Data Science**  
-- ☁️ **Microsoft Azure**  
-- 📊 **Power BI**  
-- 🚀 **Cloud Computing**  
+Hi there! I’m **Sreekar Jenepalli**, a certified **Data Engineer** with over **5 years of experience** delivering enterprise-grade data solutions at **Adventist Health** and **Adobe**.
 
-With **1 year of experience** as a **Data Engineer at Winwire Technologies**, I am dedicated to leveraging cutting-edge technologies to create impactful data-driven solutions. My ultimate goal is to become a **Data Engineer at a leading MNC**.  
+At Adventist Health, I engineered HIPAA-compliant data lakes, real-time streaming pipelines, and CI/CD automation using AWS Glue, EMR, Kinesis, and PySpark. At Adobe, I built and optimized 120+ ETL pipelines handling 25+ TB of marketing and campaign data using Kafka, Redshift, and Databricks.
 
----
+My passion lies in:
+- ⚙️ **Data Engineering & Real-Time Processing**
+- ☁️ **AWS & Azure Cloud Architectures**
+- 🔄 **ETL/ELT Pipelines & Lakehouse Platforms**
+- 📊 **Data Modeling, Governance & Visualization**
+
+With a strong foundation in **Apache Spark, Databricks, PySpark, Kafka, Airflow, and SQL**, I specialize in building scalable, secure, and production-ready data systems that power analytics and machine learning at scale.
+
+I’m committed to continuous learning and innovation—driving efficiency, reliability, and business impact through modern data infrastructure.
+
 
 ## **💻 Areas of Expertise**  
 
